@@ -28,3 +28,4 @@ ifconfig | grep inet > myip ; sed s/inet/YourIP/1 myip
 fi
 
 
+################    This is a modification for 4.7    ###############
